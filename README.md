@@ -1,5 +1,5 @@
 # old-projects
-My old projects that I can return to for remake.
+My old projects that I can return to remake.
 
 # markdown-previewer
 
