@@ -1,6 +1,6 @@
 # РУС
 
-# старые проекты
+# Cтарые проекты
 Мои старые проекты.
 
 # markdown-previewer
@@ -48,7 +48,7 @@ browser version: https://codepen.io/Numinor/pen/rEvepp
 
 # ENG
   
-# old-projects
+# Old projects
 My old projects that I can return to remake.
 
 # markdown-previewer
