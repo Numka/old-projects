@@ -1,4 +1,4 @@
-#<<рус>>
+# РУС
 
 # старые проекты
 Мои старые проекты.
@@ -46,7 +46,7 @@ ToDo: tranfer all code to git and github and distribute it properly
 
 browser version: https://codepen.io/Numinor/pen/rEvepp
 
-#<<eng>>
+# ENG
   
 # old-projects
 My old projects that I can return to remake.
