@@ -31,7 +31,7 @@ browser version: https://codepen.io/Numinor/pen/Xwogyw
 
 # simple-calculator
 
-Простой калькулятор, дизайн которого был потерян при переустановке системы.
+Простой калькулятор.
 
 ToDo: tranfer all code to git and github and distribute it properly
 
@@ -40,7 +40,7 @@ browser version: https://codepen.io/Numinor/pen/mZJVoL
 
 # pomodoro-clock
 
-Простой таймер, дизайн которого был потерян при переустановке системы. Недоделан.
+Простой таймер.
 
 ToDo: tranfer all code to git and github and distribute it properly
 
